@@ -2,7 +2,7 @@
 ## ENTRANDO NO MUNDO DEVOPS
 
 
-- [ ] GIT
+- [x] GIT
 - [ ] DOCKER
 - [ ] LINUX
 - [ ] ANSIBLE
