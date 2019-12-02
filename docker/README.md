@@ -2,7 +2,7 @@
 
 ## Simple Dockerfile
 
-Pasta "simple" contem um simples Dockerfile para criação de imagem DEBIAN com NGINX
+Clone o repositorio navegue até a pasta "simple" contem um simples Dockerfile para criação de imagem DEBIAN com NGINX
 
 ### Construindo a imagem
 
@@ -12,6 +12,7 @@ Pasta "simple" contem um simples Dockerfile para criação de imagem DEBIAN com 
 
 `docker container run -d --name meunginx -p 8080:80 mynginx:v1.0`
 
+#### Para acesasar o nginx iphost:8080
 
 ## Multistage 
 
@@ -25,3 +26,5 @@ Pasta "multistage" criação de um simples Dockerfile HelloWorld com multistage 
 ### Rodando a imagem contruida
 
 `docker container run -d --name mygolang mygolang:v1.0`
+
+#### Retornara a mensagem giropops strigus girus
