@@ -43,6 +43,7 @@ Navegue até a pasta "multistage/fodao";  Lá contem um simples Dockerfile Hello
 `docker image ls`
 
 mygolangfodao       v1.0                acb387aa7738        39 seconds ago       7.06MB
+
 mygolang            v1.0                7ee5e1bbd50b        About a minute ago   805MB
 
 
