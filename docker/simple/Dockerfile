@@ -6,7 +6,7 @@ RUN apt update && \
     apt install nginx -y && \ 
     apt clean
 
-COPY conf/index.html /var/www/html/index.html
+COPY conf/index.html /var/www/html/
 
 WORKDIR /var/www/html
 
