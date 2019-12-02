@@ -3,7 +3,7 @@
 
 
 - [x] GIT
-- [ ] DOCKER
+- [x] DOCKER
 - [ ] LINUX
 - [ ] ANSIBLE
 - [ ] GRAYLOG
