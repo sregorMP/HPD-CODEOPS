@@ -1,0 +1,10 @@
+---
+# tasks file for common
+- name: install selinux python
+  yum: name= libselinux-python state=present
+
+- name: Reload ansible-facts
+  setup: 
+
+- name: install Epel
+  yum: name=epel-release state=present 

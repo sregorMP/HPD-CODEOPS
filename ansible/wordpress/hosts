@@ -1,0 +1,5 @@
+[web]
+swarm-server
+
+[db]
+jenkins-server

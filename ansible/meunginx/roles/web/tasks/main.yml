@@ -1,0 +1,13 @@
+---
+# tasks file for meunginx
+- name: "Instalando nginx"
+  yum: pkg={{ item }} state=present
+  with_items:
+    - nginx
+    - git
+    - nmap 
+    - php
+  notify: "restart nginx"
+- name: copiando index
+  template: src=index.html.j2 dest=/usr/share/nginx/html/index.html
+  notify: restart nginx   

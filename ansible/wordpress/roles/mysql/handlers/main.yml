@@ -1,0 +1,8 @@
+---
+# handlers file for mysql
+- name: start mariadb
+  service: name=mariadb state=started
+
+- name: restart mariadb
+  service: name=mariadb state=restarted
+
