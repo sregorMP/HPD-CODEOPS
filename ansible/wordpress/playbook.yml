@@ -1,0 +1,20 @@
+---
+- name: "instalando os pacotes db"
+  hosts: all
+  become: true
+  roles:
+    - common
+
+- name: "instalando os pacotes web"
+  hosts: db
+  become: true
+  roles:
+    - mariadb
+
+- name: "instalando os pacotes web"
+  hosts: web
+  become: true
+  roles:
+    - nginx
+    - php-fpm
+    - wordpress

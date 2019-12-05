@@ -1,10 +1,11 @@
 ---
 # tasks file for common
-- name: install selinux python
-  yum: name= libselinux-python state=present
+- name: install common packages
+  yum: name={{ item }} state=present
+  with_items:
+    - epel-release
+    - libselinux-python
+    - MySQL-python.x86_64
 
 - name: Reload ansible-facts
   setup: 
-
-- name: install Epel
-  yum: name=epel-release state=present 
