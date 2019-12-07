@@ -1,6 +1,6 @@
 
 [web]
-swarm-server
+web-server
 
 [db]
-jenkins-server
+db-server

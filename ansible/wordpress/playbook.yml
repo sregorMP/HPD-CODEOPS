@@ -1,15 +1,9 @@
 ---
-- name: "instalando os pacotes db"
+- name: "instalando os pacotes commons"
   hosts: all
   become: true
   roles:
     - common
-
-- name: "instalando os pacotes web"
-  hosts: db
-  become: true
-  roles:
-    - mariadb
 
 - name: "instalando os pacotes web"
   hosts: web
@@ -17,4 +11,5 @@
   roles:
     - nginx
     - php-fpm
-    - wordpress
+    - wordpress 
+    - mariadb 
