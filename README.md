@@ -8,7 +8,7 @@
 - [x] ANSIBLE
 - [ ] GRAYLOG
 - [ ] PROMETHEUS
-- [ ] JENKINS
+- [x] JENKINS
 - [ ] RUNDECK
 - [ ] PYTHON
 - [ ] ELK
