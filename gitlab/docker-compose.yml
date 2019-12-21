@@ -1,0 +1,30 @@
+version: '3'
+
+services:
+  gitlab:
+    image: gitlab/gitlab-ce:latest
+    ports: 
+      - "443:443"
+      - "80:80"
+      - "2222:22"
+    volumes:
+      - gitlabconfig:/etc/gitlab
+      - gitlablogs:/var/log/gitlab 
+      - gitlabdata:/var/opt/gitlab
+    networks:
+      - gitlab
+  gitlabrunner:
+    image: gitlab/gitlab-runner:latest
+    depends_on: 
+      - gitlab
+    volumes:
+      - gitlabrunner:/etc/gitlab-runner
+    networks:
+      - gitlab 
+networks:
+  gitlab:  
+volumes: 
+  gitlabconfig:
+  gitlablogs:
+  gitlabdata:
+  gitlabrunner:
