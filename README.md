@@ -13,4 +13,4 @@
 - [ ] PYTHON
 - [ ] ELK
 - [ ] MARKDOWN
-- [ ] GITLAB
+- [x] GITLAB
