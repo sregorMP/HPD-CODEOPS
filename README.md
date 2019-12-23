@@ -4,7 +4,7 @@
 
 - [x] GIT
 - [x] DOCKER
-- [ ] LINUX
+- [x] LINUX
 - [x] ANSIBLE
 - [ ] GRAYLOG
 - [ ] PROMETHEUS
