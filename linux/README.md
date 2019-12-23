@@ -1,4 +1,4 @@
-# Feito na aula de git da turma hpd18
+# Feito na aula de Linux da turma hpd18
 ### Instalar e configurar o linux
 ### Entender o sistema de arquivos, FHS e LSB 
 ### Manusear o shell Bash e suas facilidades
