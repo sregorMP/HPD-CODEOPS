@@ -1,13 +1,13 @@
-##Feito na aula de git da turma hpd18
-Instalar e configurar o linux
-Entender o sistema de arquivos, FHS e LSB
-Manusear o shell Bash e suas facilidades
-Configurar o Bash
-Instalar e gerenciar pacotes
-Configurar e gerenciar permissões de arquivos e diretórios
-Administrar os usuários do sistema
-Editar arquivos no VI de forma efetiva
-Alguns comandos executados..
+# Feito na aula de git da turma hpd18
+### Instalar e configurar o linux
+### Entender o sistema de arquivos, FHS e LSB 
+### Manusear o shell Bash e suas facilidades
+### Configurar o Bash
+### Instalar e gerenciar pacotes
+### Configurar e gerenciar permissões de arquivos e diretórios
+###  Administrar os usuários do sistema
+### Editar arquivos no VI de forma efetiva
+### Alguns comandos executados..
 pwd
 ls
 cd
