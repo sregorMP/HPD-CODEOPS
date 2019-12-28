@@ -4,7 +4,7 @@
 
 Clone o repositorio; Navegue até a pasta "gitlab"; 
 
-### 
+## 
 
 ``` docker-compose up -d ```
 
@@ -15,7 +15,7 @@ Clone o repositorio; Navegue até a pasta "gitlab";
 INFOS 
 admin Settings > CI/CD > RUNNERS
 
-### Push to repository
+## Push to repository
 
 ### O arquivo de configuração do pipeline
 
