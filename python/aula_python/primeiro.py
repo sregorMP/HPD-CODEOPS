@@ -1,0 +1,11 @@
+
+print('giropops strigus girus')
+print('qual o seu nome')
+nome = input() 
+print('prazer em te conhecer ' + nome)
+tamanho = str(len(nome))
+print('o tamanho do seu nome é: ' + tamanho)
+print(len(nome))
+print('qual a sua idade ' + nome) 
+idade = input() 
+print('seu nome é ' + nome + ' idade '+ str(int(idade) + 1) + ' em um ano')
