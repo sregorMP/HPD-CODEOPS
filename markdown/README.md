@@ -10,7 +10,7 @@ este é outro paragrafo
 
 ### desenho infra 
 ```mermaid
-graph TD:
+graph TD
   LB-->nginx-01;
   LB-->nginx-02;
   nginx-03-->sql; 
