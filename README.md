@@ -10,6 +10,6 @@
 - [x] JENKINS
 - [ ] RUNDECK
 - [ ] PYTHON
-- [ ] ELK
-- [ ] MARKDOWN
+- [x] ELK
+- [x] MARKDOWN
 - [x] GITLAB
