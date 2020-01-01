@@ -1,4 +1,4 @@
-score = input("enter score")
+score = input("enter score: ")
 score = int(score)
 if score >= 80:
     grade = 'A'
