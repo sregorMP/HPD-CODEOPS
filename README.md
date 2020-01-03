@@ -9,7 +9,7 @@
 - [ ] PROMETHEUS
 - [x] JENKINS
 - [ ] RUNDECK
-- [ ] PYTHON
+- [x] PYTHON
 - [x] ELK
 - [x] MARKDOWN
 - [x] GITLAB
