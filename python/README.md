@@ -17,4 +17,15 @@ source venv/bin/activate
 ### Verificando ambiente do python
 ```
 which python
+
 ```
+* Treinamento Python
+* Estrutura de dados
+* Estruturas de controle
+* Gerenciar modulos
+* Manipular strings
+* Criar funcoes
+* Manipular arquivos
+* Criar command-lines
+* Manipular dados de APIs
+* Manipular dados no formato JSON
