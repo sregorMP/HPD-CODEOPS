@@ -58,8 +58,6 @@ ___
 acesse aqui:
 [Clique aqui ](https://sregormp.github.io)
 
-![imagem aqui][logo]:
-
 
 
 
