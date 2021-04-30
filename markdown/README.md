@@ -60,7 +60,6 @@ acesse aqui:
 
 ![imagem aqui][logo]:
 
-[logo]: https://www.google.com.br/imgres?imgurl=http%3A%2F%2F2.bp.blogspot.com%2F-bF6aSsWvl7Q%2FU9GUdthsSPI%2FAAAAAAABS8Q%2Fmr6ZGcpv8kY%2Fs1600%2Fgoogle%2Blogo.jpg&imgrefurl=http%3A%2F%2Fmundodasmarcas.blogspot.com%2F2006%2F05%2Fgoogle-dominando-o-mundo.html&docid=9Z6Qvtefi9A4bM&tbnid=GUhNDt0YmSERfM%3A&vet=10ahUKEwic8_yDuuDmAhW3D7kGHUkhAZ8QMwhRKAMwAw..i&w=365&h=129&client=opera&bih=666&biw=1326&q=imagem%20google%20pequeno&ved=0ahUKEwic8_yDuuDmAhW3D7kGHUkhAZ8QMwhRKAMwAw&iact=mrc&uact=8
 
 
 
